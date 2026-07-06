@@ -1,4 +1,4 @@
-# LLM Zoomcamp 2026 — Module 3: AI Orchestration with Kestra
+# LLM Zoomcamp 2026 Module 3: Orchestration
 
 This folder contains my homework solution for Module 3, which covers orchestrating AI workflows with [Kestra](https://kestra.io/), including context engineering, RAG-grounded responses, and token usage in agentic flows.
 
@@ -10,8 +10,8 @@ This folder contains my homework solution for Module 3, which covers orchestrati
 
 ## Files
 
-- `week3_task.ipynb` —> homework answers and reasoning
-- `4_simple_agent_edited.yaml` —> the `4_simple_agent` flow after editing the `english_brevity` task's prompt (Q5), changed from asking for exactly 1 sentence to exactly 3 sentences
+- `week3_task.ipynb` : homework answers and reasoning
+- `4_simple_agent_edited.yaml` : the `4_simple_agent` flow after editing the `english_brevity` task's prompt (Q5), changed from asking for exactly 1 sentence to exactly 3 sentences
 
 ## Course
 
