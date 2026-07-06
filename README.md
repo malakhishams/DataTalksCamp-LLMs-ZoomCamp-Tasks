@@ -8,7 +8,7 @@ Throughout the course, I explore different aspects of LLM engineering, including
 
 - [x] Module 1: Agentic RAG
 - [x] Module 2: Vector Search
-- [ ] Module 3: Orchestration
+- [x] Module 3: Orchestration
 - [ ] Workshop: Data Ingestion
 - [ ] Module 4: Evaluation
 - [ ] Module 5: Monitoring
