@@ -9,9 +9,9 @@ Throughout the course, I explore different aspects of LLM engineering, including
 - [x] Module 1: Agentic RAG
 - [x] Module 2: Vector Search
 - [x] Module 3: Orchestration
-- [ ] Workshop: Data Ingestion
 - [ ] Module 4: Evaluation
 - [ ] Module 5: Monitoring
+- [ ] Module 6: Best Practices
 - [ ] Module 7: End-to-End Project
 - [ ] Capstone Project
 
@@ -27,6 +27,7 @@ Throughout the course, I explore different aspects of LLM engineering, including
 - RAG Pipelines
 - Docker
 - AI Engineering Tools
+
 ---
 
 ## About
@@ -34,4 +35,5 @@ Throughout the course, I explore different aspects of LLM engineering, including
 This repo documents my learning journey through the DataTalksClub LLM Zoomcamp by implementing course assignments, exploring concepts, and building LLM-based applications.
 
 Course repository:
+
 https://github.com/DataTalksClub/llm-zoomcamp
