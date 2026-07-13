@@ -6,6 +6,7 @@ pandas
 tqdm
 jupyter
 pydantic
+gitsource
 
 # Module 1 - Agentic RAG (Gemini via OpenAI-compatible endpoint)
 openai
