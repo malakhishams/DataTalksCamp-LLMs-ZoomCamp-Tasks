@@ -1,11 +1,22 @@
-jupyter
-openai
+# Core / shared across modules
 python-dotenv
-minsearch
 requests
-pydantic
-pandas
-scikit-learn
 numpy
+pandas
+tqdm
+jupyter
+pydantic
+
+# Module 1 - Agentic RAG (Gemini via OpenAI-compatible endpoint)
+openai
+
+# Module 2 - Vector Search (ONNX embeddings + Elasticsearch)
 onnxruntime
 tokenizers
+elasticsearch
+
+# Module 3 - Orchestration (Kestra)
+google-generativeai
+
+# Module 4 - Evaluation
+scikit-learn
