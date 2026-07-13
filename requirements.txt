@@ -1,0 +1,11 @@
+jupyter
+openai
+python-dotenv
+minsearch
+requests
+pydantic
+pandas
+scikit-learn
+numpy
+onnxruntime
+tokenizers
