@@ -21,3 +21,7 @@ google-generativeai
 
 # Module 4 - Evaluation
 scikit-learn
+
+# Module 5 - Monitoring
+opentelemetry-api 
+opentelemetry-sdk
