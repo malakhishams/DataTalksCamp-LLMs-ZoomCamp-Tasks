@@ -13,7 +13,7 @@ Throughout the course, I explore different aspects of LLM engineering, including
 - [x] Module 5: Monitoring
 - [x] Module 6: Best Practices
 - [x] Module 7: End-to-End Project
-- [ ] Capstone Project
+- [x] Capstone Project
 
 ---
 
